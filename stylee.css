@@ -142,6 +142,7 @@ transition: color 0.3s linear ;
 #iletisim2{
     font-size: 20px;
     font-family: 'Creepster', cursive;
+	color: white;
 }
 
 body div p #adres:hover{
