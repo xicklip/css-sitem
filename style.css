@@ -68,7 +68,6 @@ a:hover{
 a{
     text-decoration: none;
     transition: color 0.3s linear;
-    color: rgba(999, 100, 500, 10);
     font-weight: bold;
     margin-left: 50px;
     text-transform: capitalize;
