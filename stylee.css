@@ -59,6 +59,7 @@ a{
     text-decoration: none;
     transition: color 0.3s linear;
     font-weight: bold;
+	color: rgba(999, 100, 500, 10);
     margin-left: 50px;
     text-transform: capitalize;
     -webkit-transition: color 1s;
@@ -67,13 +68,16 @@ a{
 
 } 
 
+a:visited{
+    color:yellow;
+}
+a:active{
 
-a:hover{
     color: red;
 }
 
-a:visited{
-    color:yellow;
+a:hover{
+    color: red;
 }
 
 #anasayfa{
