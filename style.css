@@ -61,9 +61,6 @@ a{
     font-weight: bold;
     margin-left: 50px;
     text-transform: capitalize;
-    -webkit-transition: color 1s;
-    -moz-transition: color 1s;
-    -o-transition: color 1s;
 
 } 
 a:visited{
