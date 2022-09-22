@@ -57,14 +57,15 @@ body{
 
 a{
     text-decoration: none;
+    color: yellow;
     transition: color 0.3s linear;
     font-weight: bold;
-	color: rgba(999, 100, 500, 10);
     margin-left: 50px;
     text-transform: capitalize;
     -webkit-transition: color 1s;
     -moz-transition: color 1s;
     -o-transition: color 1s;
+
 
 } 
 
