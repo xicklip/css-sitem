@@ -70,10 +70,6 @@ a{
 a:visited{
     color:yellow;
 }
-a:active{
-
-    color: red;
-}
 
 a:hover{
     color: red;
