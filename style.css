@@ -54,17 +54,7 @@ body{
   position: left;
   text-indent: -70px;
 }
-a:visited{
-    color:yellow;
-}
-a:active{
 
-    color: red;
-}
-
-a:hover{
-    color: red;
-}
 a{
     text-decoration: none;
     transition: color 0.3s linear;
@@ -76,7 +66,17 @@ a{
     -o-transition: color 1s;
 
 } 
+a:visited{
+    color:yellow;
+}
+a:active{
 
+    color: red;
+}
+
+a:hover{
+    color: red;
+}
 
 #anasayfa{
     margin-left: 40px;
