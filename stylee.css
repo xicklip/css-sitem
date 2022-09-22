@@ -67,9 +67,7 @@ a{
     -o-transition: color 1s;
 
 } 
-a:visited{
-    color:yellow;
-}
+
 
 a:hover{
     color: red;
